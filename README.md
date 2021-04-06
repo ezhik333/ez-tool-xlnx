@@ -1,4 +1,4 @@
-# ez-tool-xnlx
+# ez-tool-xlnx
 
 Dockerfile and some scripts for easy building of linux-xlnx kernel, u-boot, ATF in a container.
 

@@ -1,0 +1,1 @@
+export MY_GCC_NJOBS=2

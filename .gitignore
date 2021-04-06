@@ -1,0 +1,6 @@
+linux-xlnx/
+u-boot-xlnx/
+arm-trusted-firmware/
+device-tree-xlnx/
+_out/
+*.xz

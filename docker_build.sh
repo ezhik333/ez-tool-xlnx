@@ -1,0 +1,1 @@
+docker build --rm -t ez-tool-xlnx .

@@ -2,7 +2,9 @@
 
 Dockerfile and some scripts for easy building of linux-xlnx kernel, u-boot, ATF in a container.
 
-Works for ZynqMP processors. You can change parameters in Dockerfile and scripts to make this work for Zynq 7000 (not tested yet).
+Works for ZynqMP processors. 
+U-Boot builds with ZCU106 board device-tree.
+You can change parameters in Dockerfile and scripts to make this work for Zynq 7000 and another boards (not tested yet).
 
 ## First steps
 Run scripts to download gcc compiler and clone Xilinx repositories
